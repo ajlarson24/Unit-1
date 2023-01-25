@@ -2,7 +2,8 @@
 /*Add CSS styles here*/
 
 #mydiv {
-    background-color: red;
+    color: orange;
+    background-color: navy;
     width: 80%;
     margin: 0 auto;
     height: 100px;
