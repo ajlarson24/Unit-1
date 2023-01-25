@@ -1,0 +1,9 @@
+/* Stylesheet by Alex Larson, 2023 */
+/*Add CSS styles here*/
+
+#mydiv {
+    background-color: red;
+    width: 80%;
+    margin: 0 auto;
+    height: 100px;
+}
