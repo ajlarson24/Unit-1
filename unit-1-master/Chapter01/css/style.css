@@ -3,6 +3,8 @@
 
 #mydiv {
     color: orange;
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: navy;
     width: 80%;
     margin: 0 auto;
