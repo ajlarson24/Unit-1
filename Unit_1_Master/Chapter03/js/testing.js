@@ -133,7 +133,6 @@ function debugAjax(){
             //console.log(myData)
             document.querySelector("#myDiv").insertAdjacentHTML('beforeend', '<br>GeoJSON data:</br>' + JSON.stringify(myData))
 		})
-    
 };
 
 /*As mentioned at the beginning, this will load the script ahead of time to make the loading
