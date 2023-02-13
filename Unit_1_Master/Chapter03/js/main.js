@@ -14,10 +14,11 @@ function jsAjax(){
 
             //check the data, data is usable here
             console.log(myData)
+            //document.querySelector("#myDiv").insertAdjacentHTML('beforeend', '<br>GeoJSON data:</br>' + JSON.stringify(myData))
         }) 
 
     //check the data, data is undefined here
-    console.log(myData)
+    //console.log(myData)
 };
 
 document.addEventListener('DOMContentLoaded',jsAjax)
