@@ -143,3 +143,4 @@ function debugAjax(){
 /*As mentioned at the beginning, this will load the script ahead of time to make the loading
 of the webpage not as cumbersome*/
 document.addEventListener('DOMContentLoaded',initialize)
+//THIS COMMENT IS BEING ADDED SO I CAN UPLOAD AGAIN TO GITHUB

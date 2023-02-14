@@ -24,3 +24,4 @@ function debugAjax(){
 
 //THIS LINE IS NOT NEEDED AS THE MYDATA HERE IS UNDEFINED
 //document.querySelector("#mydiv").insertAdjacentHTML('beforeend', 'GeoJSON data: ' + JSON.stringify(myData))
+//THIS COMMENT IS BEING ADDED SO I CAN REUPLOAD TO GITHUB
